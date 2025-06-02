@@ -1,0 +1,18 @@
+Windows Registry Editor Version 5.00
+
+;Remove the NoOpenWith value from Photos app's ProgIDs in the registry
+
+[HKEY_CURRENT_USER\Software\Classes\AppXvhc4p7vz4b485xfp46hhk3fq3grkdgjg]
+"NoOpenWith"=-
+
+[HKEY_CURRENT_USER\Software\Classes\AppXk0g4vb8gvt7b93tg50ybcy892pge6jmt]
+"NoOpenWith"=-
+
+[HKEY_CURRENT_USER\Software\Classes\AppX43hnxtbyyps62jhe9sqpdzxn1790zetc]
+"NoOpenWith"=-
+
+[HKEY_CURRENT_USER\Software\Classes\AppX9rkaq77s0jzh1tyccadx9ghba15r6t3h]
+"NoOpenWith"=-
+
+[HKEY_CURRENT_USER\Software\Classes\AppX6eg8h5sxqq90pv53845wmnbewywdqq5h]
+"NoOpenWith"=-
